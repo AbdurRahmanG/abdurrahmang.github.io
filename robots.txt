@@ -1,4 +1,7 @@
 User-agent: *
+
+Crawl-delay: 10
+
 Disallow:
 
 Sitemap: https://abdurrahmang.com/sitemap.xml
