@@ -4,4 +4,4 @@ Crawl-delay: 10
 
 Disallow:
 
-Sitemap: https://abdurrahmang.com/sitemap.xml
+Sitemap: https://abdurrahmang.com/sitemap_index.xml
