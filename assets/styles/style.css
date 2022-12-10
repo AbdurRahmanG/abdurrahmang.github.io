@@ -19,6 +19,12 @@ p {
   font-size: 1.5rem;
 }
 
+/* Reusable */
+.service-img {
+  margin: 0 0 15px 0;
+  width: 100px;
+}
+
 /* Header, Hero */
 
 .header {
